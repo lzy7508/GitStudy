@@ -1,6 +1,5 @@
 #include "Test.h"
-
-void main(void)
+int max(int a, int b)
 {
-
+  return(1);
 }
